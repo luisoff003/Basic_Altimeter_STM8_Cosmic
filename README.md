@@ -3,7 +3,9 @@
 Needed tools: 
 - STVD
 - Cosmic C Compiler
-Please refer to https://circuitdigest.com/microcontroller-projects/getting-started-with-stm8s-using-stvd-and-cosmic-c-compiler
+Please refer to:
+- https://circuitdigest.com/microcontroller-projects/getting-started-with-stm8s-using-stvd-and-cosmic-c-compiler
+- https://github.com/CircuitDigest/STM8S103F3_SPL (Basic uC Drivers)
 to get your local env running.
 
 Suggested Tools: 
@@ -15,7 +17,7 @@ Build:
 2. Open ST Visual Develop -> Open Workspace -> Select the .stw file on the repo.
 3. Press F7 or use the build all cmd.
 
-How to push your changes? 
+How to push your changes? :
 If a file was added/deleted from the project, please go to File->Save Workspace before pushing the change. 
 A normal change to the .c,.h doesnt need to save the workspace first. 
 

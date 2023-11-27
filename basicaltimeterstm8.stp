@@ -300,6 +300,11 @@ Next=Root.Source Files.src\stm8s_gpio.c
 [Root.Source Files.src\stm8s_gpio.c]
 ElemType=File
 PathName=src\stm8s_gpio.c
+Next=Root.Source Files.src\stm8s_i2c.c
+
+[Root.Source Files.src\stm8s_i2c.c]
+ElemType=File
+PathName=src\stm8s_i2c.c
 Next=Root.Source Files.src\stm8s_uart1.c
 
 [Root.Source Files.src\stm8s_uart1.c]
@@ -402,6 +407,11 @@ Next=Root.Include Files.include\stm8s_gpio.h
 [Root.Include Files.include\stm8s_gpio.h]
 ElemType=File
 PathName=include\stm8s_gpio.h
+Next=Root.Include Files.include\stm8s_i2c.h
+
+[Root.Include Files.include\stm8s_i2c.h]
+ElemType=File
+PathName=include\stm8s_i2c.h
 Next=Root.Include Files.include\stm8s_serial.h
 
 [Root.Include Files.include\stm8s_serial.h]

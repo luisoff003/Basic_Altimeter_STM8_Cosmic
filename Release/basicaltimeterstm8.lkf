@@ -53,6 +53,7 @@ crtsi0.sm8
 Release\main.o
 Release\stm8s_clk.o
 Release\stm8s_gpio.o
+Release\stm8s_i2c.o
 Release\stm8s_uart1.o
 #<END OBJECT_FILES>
 
